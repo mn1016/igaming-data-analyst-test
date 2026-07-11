@@ -70,11 +70,11 @@ en la función getDatos()
 
 
 
- 	- Dentro de la carpeta `prueba_tecnica/datos` ejecutar la instrucción `php test.php <funcion> <valor>`
+ 	- Dentro de la carpeta `prueba_tecnica/datos` ejecutar la instrucción `php test.php < funcion > < valor >`
 
 
 
- 		<funcion> es un parámetro valores permitidos:
+ 		< funcion > es un parámetro valores permitidos:
 
  			fecha_iso : Convierte el formato a fecha ISO (AAAA-MM-DDTHH:MM:SS), regresa ERROR si el valor no se reconoce como fecha.
 
@@ -88,7 +88,7 @@ en la función getDatos()
 
 
 
-		<valor> valor que se desea probar.
+		< valor > valor que se desea probar.
 
 
 
