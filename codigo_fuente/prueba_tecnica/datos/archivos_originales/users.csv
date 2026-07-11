@@ -1,0 +1,152 @@
+user_id,name,email,registered_at,country,state,status
+U0001,Usuario 1,,2026-06-21,MX,Puebla,ACTIVE
+U0002,Usuario 2,user2@example.com,29/04/2026,MX,,active
+U0003,Usuario 3,,15-06-2026,MX,CDMX,ACTIVE
+U0004,Usuario 4,user4@example.com,2026-04-30,MX,,inactive
+U0005,Usuario 5,user5@example.com,29-04-2026,MX,Nuevo León,
+U0006,Usuario 6,user6@example.com,21-04-2026,MX,Jalisco,ACTIVE
+U0007,Usuario 7,user7@example.com,2026-05-14,MX,CDMX,activo
+U0008,Usuario 8,user8@example.com,2026/05/15,MX,NUEVO LEON,inactivo
+U0009,Usuario 9,user9@example.com,16-04-2026,MX,Puebla,
+U0010,Usuario 10,user10@example.com,2026/06/20,MX,CDMX,active
+U0011,Usuario 11,user11@example.com,24/06/2026,MX,CDMX,
+U0012,Usuario 12,user12@example.com,2026-04-30,MX,NUEVO LEON,INACTIVE
+U0013,Usuario 13,user13@example.com,17/05/2026,MX,Estado de México,INACTIVE
+U0014,Usuario 14,user14@example.com,2026-05-05,MX,Jalisco,inactivo
+U0015,Usuario 15,user15@example.com,02/05/2026,MX,Puebla,INACTIVE
+U0016,Usuario 16,user16@example.com,11/06/2026,MX,Nuevo León,ACTIVE
+U0017,Usuario 17,user17@example.com,2026/04/05,MX,CDMX,ACTIVE
+U0018,Usuario 18,user18@example.com,2026/06/12,MX,NUEVO LEON,inactive
+U0019,Usuario 19,user19@example.com,22-06-2026,MX,Jalisco,ACTIVE
+U0020,Usuario 20,user20@example.com,2026/06/11,MX,nuevo leon,inactivo
+U0021,Usuario 21,user21@example.com,2026/05/22,MX,Jalisco,inactivo
+U0022,Usuario 22,user22@example.com,2026-06-03,MX,CDMX,ACTIVE
+U0023,Usuario 23,user23@example.com,20/06/2026,MX,nuevo leon,inactivo
+U0024,Usuario 24,user24@example.com,09-04-2026,MX,NUEVO LEON,inactivo
+U0025,Usuario 25,user25@example.com,2026-05-03,MX,CDMX,INACTIVE
+U0026,Usuario 26,user26@example.com,2026/06/08,MX,Queretaro,active
+U0027,Usuario 27,user27@example.com,08-05-2026,MX,Nuevo León,INACTIVE
+U0028,Usuario 28,user28@example.com,04/05/2026,MX,CDMX,
+U0029,Usuario 29,user29@example.com,2026/06/20,MX,,inactivo
+U0030,Usuario 30,user30@example.com,26/04/2026,MX,Jalisco,inactivo
+U0031,Usuario 31,user31@example.com,2026-06-07,MX,NUEVO LEON,active
+U0032,Usuario 32,user32@example.com,2026/04/15,MX,Puebla,ACTIVE
+U0033,Usuario 33,user33@example.com,08/04/2026,MX,CDMX,active
+U0034,Usuario 34,user34@example.com,2026-06-02,MX,,
+U0035,Usuario 35,user35@example.com,17/04/2026,MX,,ACTIVE
+U0036,Usuario 36,user36@example.com,04-05-2026,MX,,
+U0037,Usuario 37,user37@example.com,2026/04/26,MX,Queretaro,inactive
+U0038,Usuario 38,user38@example.com,06-06-2026,MX,Estado de México,active
+U0039,Usuario 39,user39@example.com,2026-05-14,MX,Estado de México,inactivo
+U0040,Usuario 40,user40@example.com,2026-04-29,MX,Nuevo León,ACTIVE
+U0041,Usuario 41,user41@example.com,2026-04-09,MX,CDMX,inactivo
+U0042,Usuario 42,user42@example.com,2026/05/01,MX,Estado de México,inactivo
+U0043,Usuario 43,user43@example.com,17-04-2026,MX,NUEVO LEON,
+U0044,Usuario 44,user44@example.com,23/05/2026,MX,nuevo leon,activo
+U0045,Usuario 45,user45@example.com,25-05-2026,MX,Nuevo León,INACTIVE
+U0046,Usuario 46,user46@example.com,2026-06-23,MX,Queretaro,
+U0047,Usuario 47,user47@example.com,14/04/2026,MX,,inactive
+U0048,Usuario 48,user48@example.com,18-04-2026,MX,NUEVO LEON,ACTIVE
+U0049,Usuario 49,user49@example.com,10-04-2026,MX,,active
+U0050,Usuario 50,user50@example.com,2026-04-07,MX,Estado de México,ACTIVE
+U0051,Usuario 51,user51@example.com,23-05-2026,MX,nuevo leon,active
+U0052,Usuario 52,,22-04-2026,MX,nuevo leon,activo
+U0053,Usuario 53,user53@example.com,2026/05/29,MX,,INACTIVE
+U0054,Usuario 54,user54@example.com,02/06/2026,MX,Estado de México,active
+U0055,Usuario 55,user55@example.com,2026-06-14,MX,Nuevo León,active
+U0056,Usuario 56,user56@example.com,14-06-2026,MX,,ACTIVE
+U0057,Usuario 57,user57@example.com,2026-04-08,MX,CDMX,inactivo
+U0058,Usuario 58,user58@example.com,09/04/2026,MX,Estado de México,inactivo
+U0059,Usuario 59,user59@example.com,2026-06-16,MX,nuevo leon,INACTIVE
+U0060,Usuario 60,user60@example.com,2026/06/14,MX,Estado de México,INACTIVE
+U0061,Usuario 61,user61@example.com,11/05/2026,MX,Jalisco,INACTIVE
+U0062,Usuario 62,user62@example.com,2026/06/22,MX,CDMX,active
+U0063,Usuario 63,user63@example.com,2026-05-29,MX,Estado de México,inactivo
+U0064,Usuario 64,user64@example.com,04/05/2026,MX,CDMX,ACTIVE
+U0065,Usuario 65,user65@example.com,2026/05/18,MX,,INACTIVE
+U0066,Usuario 66,user66@example.com,2026-05-09,MX,,activo
+U0067,Usuario 67,user67@example.com,2026-06-24,MX,Jalisco,activo
+U0068,Usuario 68,user68@example.com,2026-04-15,MX,Jalisco,activo
+U0069,Usuario 69,user69@example.com,07/05/2026,MX,Estado de México,INACTIVE
+U0070,Usuario 70,user70@example.com,2026/06/21,MX,Puebla,
+U0071,Usuario 71,user71@example.com,2026-04-07,MX,Puebla,active
+U0072,Usuario 72,user72@example.com,2026/04/01,MX,Puebla,ACTIVE
+U0073,Usuario 73,user73@example.com,27-05-2026,MX,CDMX,active
+U0074,Usuario 74,user74@example.com,2026-04-20,MX,,ACTIVE
+U0075,Usuario 75,,26/05/2026,MX,Queretaro,
+U0076,Usuario 76,user76@example.com,2026/04/06,MX,Estado de México,INACTIVE
+U0077,Usuario 77,user77@example.com,2026/04/14,MX,nuevo leon,inactivo
+U0078,Usuario 78,user78@example.com,20/04/2026,MX,Jalisco,inactive
+U0079,Usuario 79,user79@example.com,04/04/2026,MX,Queretaro,
+U0080,Usuario 80,user80@example.com,23/05/2026,MX,CDMX,inactive
+U0081,Usuario 81,user81@example.com,05-04-2026,MX,NUEVO LEON,activo
+U0082,Usuario 82,user82@example.com,10/05/2026,MX,Estado de México,inactive
+U0083,Usuario 83,user83@example.com,2026/05/13,MX,Puebla,activo
+U0084,Usuario 84,user84@example.com,22-06-2026,MX,,activo
+U0085,Usuario 85,user85@example.com,2026-04-04,MX,Puebla,ACTIVE
+U0086,Usuario 86,,2026/06/14,MX,nuevo leon,activo
+U0087,Usuario 87,user87@example.com,11-05-2026,MX,,active
+U0088,Usuario 88,user88@example.com,20/05/2026,MX,nuevo leon,active
+U0089,Usuario 89,user89@example.com,06/06/2026,MX,CDMX,INACTIVE
+U0090,Usuario 90,user90@example.com,2026/05/13,MX,CDMX,INACTIVE
+U0091,Usuario 91,user91@example.com,2026/05/09,MX,Queretaro,inactive
+U0092,Usuario 92,user92@example.com,08/05/2026,MX,nuevo leon,INACTIVE
+U0093,Usuario 93,user93@example.com,2026/04/23,MX,Nuevo León,activo
+U0094,Usuario 94,user94@example.com,07/05/2026,MX,Queretaro,inactive
+U0095,Usuario 95,user95@example.com,27-05-2026,MX,,inactive
+U0096,Usuario 96,user96@example.com,2026-04-22,MX,Queretaro,active
+U0097,Usuario 97,user97@example.com,2026/05/01,MX,Estado de México,ACTIVE
+U0098,Usuario 98,user98@example.com,2026-04-04,MX,NUEVO LEON,inactivo
+U0099,Usuario 99,user99@example.com,10-04-2026,MX,Estado de México,INACTIVE
+U0100,Usuario 100,user100@example.com,20-05-2026,MX,Jalisco,INACTIVE
+U0101,Usuario 101,user101@example.com,2026-04-01,MX,Estado de México,ACTIVE
+U0102,Usuario 102,user102@example.com,06-06-2026,MX,Estado de México,
+U0103,Usuario 103,user103@example.com,16-04-2026,MX,NUEVO LEON,INACTIVE
+U0104,Usuario 104,user104@example.com,2026/06/07,MX,NUEVO LEON,inactivo
+U0105,Usuario 105,user105@example.com,04-06-2026,MX,,inactive
+U0106,Usuario 106,user106@example.com,21-04-2026,MX,Estado de México,
+U0107,Usuario 107,user107@example.com,2026/06/21,MX,,inactive
+U0108,Usuario 108,user108@example.com,20/06/2026,MX,CDMX,INACTIVE
+U0109,Usuario 109,user109@example.com,07/05/2026,MX,Queretaro,inactivo
+U0110,Usuario 110,user110@example.com,11/04/2026,MX,nuevo leon,INACTIVE
+U0111,Usuario 111,user111@example.com,20/04/2026,MX,nuevo leon,activo
+U0112,Usuario 112,user112@example.com,09-06-2026,MX,Estado de México,
+U0113,Usuario 113,user113@example.com,24-05-2026,MX,Nuevo León,
+U0114,Usuario 114,user114@example.com,13-06-2026,MX,Queretaro,activo
+U0115,Usuario 115,user115@example.com,20-05-2026,MX,,
+U0116,Usuario 116,user116@example.com,17/06/2026,MX,Puebla,inactive
+U0117,Usuario 117,user117@example.com,2026-06-02,MX,nuevo leon,INACTIVE
+U0118,Usuario 118,user118@example.com,22-04-2026,MX,,active
+U0119,Usuario 119,user119@example.com,2026-05-21,MX,nuevo leon,ACTIVE
+U0120,Usuario 120,user120@example.com,30/05/2026,MX,nuevo leon,activo
+U0121,Usuario 121,user121@example.com,28-04-2026,MX,nuevo leon,activo
+U0122,Usuario 122,user122@example.com,2026/05/24,MX,NUEVO LEON,active
+U0123,Usuario 123,user123@example.com,2026-06-09,MX,Queretaro,ACTIVE
+U0124,Usuario 124,user124@example.com,2026-06-23,MX,Nuevo León,
+U0125,Usuario 125,user125@example.com,04/04/2026,MX,Nuevo León,inactivo
+U0126,Usuario 126,user126@example.com,20/04/2026,MX,CDMX,inactivo
+U0127,Usuario 127,user127@example.com,28-04-2026,MX,Queretaro,ACTIVE
+U0128,Usuario 128,user128@example.com,2026-06-17,MX,Jalisco,activo
+U0129,Usuario 129,user129@example.com,2026-04-14,MX,nuevo leon,inactive
+U0130,Usuario 130,user130@example.com,2026-04-26,MX,Estado de México,active
+U0131,Usuario 131,user131@example.com,2026-05-09,MX,Nuevo León,activo
+U0132,Usuario 132,user132@example.com,08-06-2026,MX,CDMX,inactivo
+U0133,Usuario 133,,2026/06/22,MX,nuevo leon,
+U0134,Usuario 134,user134@example.com,2026-06-02,MX,Queretaro,INACTIVE
+U0135,Usuario 135,user135@example.com,29/05/2026,MX,,INACTIVE
+U0136,Usuario 136,user136@example.com,05-05-2026,MX,Puebla,activo
+U0137,Usuario 137,user137@example.com,2026-05-02,MX,NUEVO LEON,ACTIVE
+U0138,Usuario 138,user138@example.com,30-05-2026,MX,NUEVO LEON,
+U0139,Usuario 139,user139@example.com,12/05/2026,MX,Queretaro,
+U0140,Usuario 140,user140@example.com,2026/05/04,MX,Puebla,inactivo
+U0141,Usuario 141,user141@example.com,02/04/2026,MX,nuevo leon,inactive
+U0142,Usuario 142,user142@example.com,11/06/2026,MX,NUEVO LEON,inactive
+U0143,Usuario 143,user143@example.com,2026-04-03,MX,nuevo leon,INACTIVE
+U0144,Usuario 144,user144@example.com,2026/05/02,MX,Queretaro,inactive
+U0145,Usuario 145,user145@example.com,2026/06/10,MX,,activo
+U0146,Usuario 146,user146@example.com,16-05-2026,MX,Puebla,ACTIVE
+U0147,Usuario 147,user147@example.com,16/04/2026,MX,,
+U0148,Usuario 148,user148@example.com,24/04/2026,MX,NUEVO LEON,activo
+U0149,Usuario 149,user149@example.com,2026/06/15,MX,Estado de México,activo
+U0150,Usuario 150,user150@example.com,2026/04/30,MX,Nuevo León,INACTIVE
+U0011,Usuario 11,user11@example.com,24/06/2026,MX,CDMX,

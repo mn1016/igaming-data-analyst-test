@@ -1,0 +1,2050 @@
+[
+  {
+    "transaction_id": "TXN-1117",
+    "amount": "184.06",
+    "status": "rejected",
+    "payment_method": "CARD",
+    "processed_at": "2026-05-19 06:50:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1104",
+    "amount": "",
+    "status": "rejected",
+    "payment_method": "tarjeta",
+    "processed_at": "2026/06/25",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1187",
+    "amount": "$695.30",
+    "status": "successful",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "27/05/2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1341",
+    "amount": "416.51 MXN",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "2026-05-26",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1017",
+    "amount": "$114.97",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "05/04/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1205",
+    "amount": "4123.28",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026/05/27",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1321",
+    "amount": "$905.04",
+    "status": "failed",
+    "payment_method": "unknown",
+    "processed_at": "31/05/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1051",
+    "amount": "1263.06",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-20",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1169",
+    "amount": "265.89",
+    "status": "paid",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-04-10T00:37:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1260",
+    "amount": "489.13",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-11",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1035",
+    "amount": "1841.30 MXN",
+    "status": "paid",
+    "payment_method": "OXXO",
+    "processed_at": "07-04-2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1139",
+    "amount": "59.06 MXN",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-26T20:55:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1284",
+    "amount": "$126.51",
+    "status": "paid",
+    "payment_method": "bitso",
+    "processed_at": "2026-06-16",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1274",
+    "amount": "5157.8",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-04-03 16:40:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1276",
+    "amount": "1036.43 MXN",
+    "status": "rejected",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-18",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1041",
+    "amount": "5227.15 MXN",
+    "status": "paid",
+    "payment_method": "OXXO",
+    "processed_at": "06/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1029",
+    "amount": "$143.32",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-03T05:24:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1229",
+    "amount": "924.15",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "30/05/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1291",
+    "amount": "$90.52",
+    "status": "successful",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-19 16:22:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1268",
+    "amount": "92.19",
+    "status": "pending",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-01T20:59:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1127",
+    "amount": "$786.88",
+    "status": "successful",
+    "payment_method": "unknown",
+    "processed_at": "2026-05-16",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1126",
+    "amount": "897.97",
+    "status": "rejected",
+    "payment_method": "oxxo",
+    "processed_at": "08/06/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1132",
+    "amount": "699.44 MXN",
+    "status": "pending",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-28T16:51:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1094",
+    "amount": "",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-06-29T03:12:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1332",
+    "amount": "54.69",
+    "status": "pending",
+    "payment_method": "oxxo",
+    "processed_at": "2026-06-30T04:08:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1061",
+    "amount": "$250.07",
+    "status": "rejected",
+    "payment_method": "CARD",
+    "processed_at": "2026-06-10",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1234",
+    "amount": "",
+    "status": "pending",
+    "payment_method": "wallet",
+    "processed_at": "2026-05-08T05:56:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1091",
+    "amount": "$4,637.06",
+    "status": "rejected",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-20 21:21:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1021",
+    "amount": "133.93 MXN",
+    "status": "rejected",
+    "payment_method": "CARD",
+    "processed_at": "2026/05/19",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1312",
+    "amount": "$179.79",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "11/04/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1137",
+    "amount": "1120.67",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "2026/05/21",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1283",
+    "amount": "4285.42 MXN",
+    "status": "successful",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-05-31T16:56:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1143",
+    "amount": "1139.58 MXN",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-06",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1047",
+    "amount": "4808.85 MXN",
+    "status": "successful",
+    "payment_method": "SPEI",
+    "processed_at": "2026/05/29",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1098",
+    "amount": "$226.24",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "2026-05-27 21:11:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1033",
+    "amount": "$999.00",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "2026/04/19",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1068",
+    "amount": "1430.79 MXN",
+    "status": "paid",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "14-05-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1334",
+    "amount": "152.03 MXN",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "22-04-2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1156",
+    "amount": "308.73",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "2026-06-08",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1032",
+    "amount": "206.91",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "2026-06-12",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1107",
+    "amount": "101.02 MXN",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "2026-06-25 09:21:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1328",
+    "amount": "5713.66",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "2026-06-04 12:51:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1125",
+    "amount": "5825.50 MXN",
+    "status": "paid",
+    "payment_method": "OXXO",
+    "processed_at": "2026-05-29",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1300",
+    "amount": "2366.39",
+    "status": "failed",
+    "payment_method": "credit card",
+    "processed_at": "24-06-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1298",
+    "amount": "2345.12 MXN",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-22T22:07:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1245",
+    "amount": "1014.73",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "2026-06-19T21:04:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1238-X",
+    "amount": "59.63",
+    "status": "paid",
+    "payment_method": "oxxo",
+    "processed_at": "2026-06-23 05:07:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1346",
+    "amount": "1986.42",
+    "status": "pending",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-04-28T07:41:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1275",
+    "amount": "256.07 MXN",
+    "status": "paid",
+    "payment_method": "oxxo",
+    "processed_at": "2026-04-20",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1027",
+    "amount": "310.15",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "2026-04-16",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1164",
+    "amount": "142.96",
+    "status": "failed",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-04-14 04:37:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1038-X",
+    "amount": "$740.01",
+    "status": "pending",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-05-29",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1101",
+    "amount": "$892.15",
+    "status": "failed",
+    "payment_method": "unknown",
+    "processed_at": "2026/04/23",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1308",
+    "amount": "$1,387.02",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026-05-07T13:25:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1060",
+    "amount": "$1,499.00",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "2026-06-13",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1227",
+    "amount": "199",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-21 15:28:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1043",
+    "amount": "555.37 MXN",
+    "status": "failed",
+    "payment_method": "oxxo",
+    "processed_at": "2026-05-24 15:41:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1244",
+    "amount": "1765.48 MXN",
+    "status": "pending",
+    "payment_method": "credit card",
+    "processed_at": "17-06-2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1102",
+    "amount": "1995.13",
+    "status": "successful",
+    "payment_method": "bitso",
+    "processed_at": "2026-05-13",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1052",
+    "amount": "104.60 MXN",
+    "status": "successful",
+    "payment_method": "CARD",
+    "processed_at": "2026-04-05 01:43:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1278",
+    "amount": "$199.00",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-06T22:01:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1111-X",
+    "amount": "1377.42",
+    "status": "failed",
+    "payment_method": "tarjeta",
+    "processed_at": "2026/06/22",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1250",
+    "amount": "341.17 MXN",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "18/04/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1154",
+    "amount": "",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026-05-25",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1005",
+    "amount": "999",
+    "status": "pending",
+    "payment_method": "SPEI",
+    "processed_at": "01/04/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1221-X",
+    "amount": "53.11",
+    "status": "successful",
+    "payment_method": "SPEI",
+    "processed_at": "2026-06-16T13:18:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1058",
+    "amount": "575.28 MXN",
+    "status": "successful",
+    "payment_method": "crypto",
+    "processed_at": "10/06/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1309",
+    "amount": "$86.48",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "2026-06-18T18:44:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1100",
+    "amount": "",
+    "status": "pending",
+    "payment_method": "oxxo",
+    "processed_at": "2026-05-31T16:55:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1327",
+    "amount": "1728.27 MXN",
+    "status": "successful",
+    "payment_method": "CARD",
+    "processed_at": "2026/05/15",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1001",
+    "amount": "",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026/04/06",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1129",
+    "amount": "347.92 MXN",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "28/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1209",
+    "amount": "5175.15",
+    "status": "failed",
+    "payment_method": "oxxo",
+    "processed_at": "2026-05-06 16:33:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1342",
+    "amount": "$1,758.49",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "29/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1253",
+    "amount": "$322.01",
+    "status": "rejected",
+    "payment_method": "OXXO",
+    "processed_at": "2026-04-08",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1326",
+    "amount": "$49.71",
+    "status": "successful",
+    "payment_method": "SPEI",
+    "processed_at": "19/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1345",
+    "amount": "46.87",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026/04/07",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1344",
+    "amount": "",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-04-22T13:33:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1248",
+    "amount": "908.42 MXN",
+    "status": "successful",
+    "payment_method": "bitso",
+    "processed_at": "03/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1264",
+    "amount": "167.65 MXN",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "13-05-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1146",
+    "amount": "223.82 MXN",
+    "status": "rejected",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-06-10T07:20:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1290",
+    "amount": "126.02 MXN",
+    "status": "failed",
+    "payment_method": "credit card",
+    "processed_at": "24-06-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1136",
+    "amount": "94.44",
+    "status": "pending",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-22",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1128",
+    "amount": "error",
+    "status": "paid",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-19",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1175",
+    "amount": "44.89 MXN",
+    "status": "paid",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-04-15 07:59:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1141-X",
+    "amount": "813.97",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "01/06/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1258",
+    "amount": "",
+    "status": "successful",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-20 21:59:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1159",
+    "amount": "570.02",
+    "status": "rejected",
+    "payment_method": "tarjeta",
+    "processed_at": "13-04-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1226",
+    "amount": "$40.09",
+    "status": "successful",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-06-02",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1287",
+    "amount": "",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-30",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1330",
+    "amount": "$5,283.50",
+    "status": "pending",
+    "payment_method": "CARD",
+    "processed_at": "2026/04/26",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1335",
+    "amount": "885.03",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "12-05-2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1004",
+    "amount": "$210.04",
+    "status": "rejected",
+    "payment_method": "oxxo",
+    "processed_at": "08/04/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1303",
+    "amount": "$1,420.09",
+    "status": "successful",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "04-05-2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1241",
+    "amount": "4109.13 MXN",
+    "status": "pending",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "25/06/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1254",
+    "amount": "219.39 MXN",
+    "status": "paid",
+    "payment_method": "spei",
+    "processed_at": "2026-04-14T22:19:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1084",
+    "amount": "$43.16",
+    "status": "rejected",
+    "payment_method": "CARD",
+    "processed_at": "27/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1092",
+    "amount": "534.76",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "12-06-2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1349",
+    "amount": "44.95 MXN",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "26/04/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1195",
+    "amount": "$163.94",
+    "status": "paid",
+    "payment_method": "wallet",
+    "processed_at": "14/05/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1292",
+    "amount": "$1,170.71",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-16",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1173",
+    "amount": "error",
+    "status": "pending",
+    "payment_method": "OXXO",
+    "processed_at": "2026/05/04",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1078",
+    "amount": "2057.82 MXN",
+    "status": "rejected",
+    "payment_method": "bitso",
+    "processed_at": "2026/04/18",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1025",
+    "amount": "132.05",
+    "status": "rejected",
+    "payment_method": "credit card",
+    "processed_at": "2026/04/17",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1237",
+    "amount": "$562.99",
+    "status": "successful",
+    "payment_method": "tarjeta",
+    "processed_at": "27-05-2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1288",
+    "amount": "$848.50",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "2026/06/28",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1114",
+    "amount": "$219.24",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "28/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1088",
+    "amount": "97.24",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-23",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1339",
+    "amount": "$575.96",
+    "status": "rejected",
+    "payment_method": "oxxo",
+    "processed_at": "2026-06-13T13:31:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1176",
+    "amount": "error",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "2026-05-02 15:08:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1138",
+    "amount": "1424.53",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "2026/04/23",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1211",
+    "amount": "652.41",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "06-05-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1320",
+    "amount": "492.74",
+    "status": "pending",
+    "payment_method": "credit card",
+    "processed_at": "2026/05/14",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1050",
+    "amount": "87.09",
+    "status": "pending",
+    "payment_method": "CARD",
+    "processed_at": "2026-04-19 08:52:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1200",
+    "amount": "",
+    "status": "pending",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-04-10T01:18:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1028",
+    "amount": "$1,396.51",
+    "status": "successful",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-06-18",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1196",
+    "amount": "738.18 MXN",
+    "status": "paid",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-06-18 11:59:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1299",
+    "amount": "178.34",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-26",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1055",
+    "amount": "$5,746.56",
+    "status": "rejected",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-13T18:48:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1079",
+    "amount": "$85.01",
+    "status": "pending",
+    "payment_method": "oxxo",
+    "processed_at": "2026-06-01 18:54:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1282",
+    "amount": "2366.59 MXN",
+    "status": "successful",
+    "payment_method": "crypto",
+    "processed_at": "13/06/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1350",
+    "amount": "337.43 MXN",
+    "status": "successful",
+    "payment_method": "tarjeta",
+    "processed_at": "16/05/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1082",
+    "amount": "130.27 MXN",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-12",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1197",
+    "amount": "error",
+    "status": "failed",
+    "payment_method": "CARD",
+    "processed_at": "2026-06-12",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1271",
+    "amount": "$323.21",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "11/05/2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1121",
+    "amount": "$1,325.58",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "2026-05-17",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1304",
+    "amount": "5372.02",
+    "status": "pending",
+    "payment_method": "unknown",
+    "processed_at": "22-05-2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1296",
+    "amount": "99.00 MXN",
+    "status": "failed",
+    "payment_method": "credit card",
+    "processed_at": "2026-06-08",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1077",
+    "amount": "162.71",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "30/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1157",
+    "amount": "162.68",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "17/04/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1054",
+    "amount": "286.49",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-07T18:15:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1147",
+    "amount": "330.28",
+    "status": "failed",
+    "payment_method": "oxxo",
+    "processed_at": "25/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1252",
+    "amount": "$345.30",
+    "status": "paid",
+    "payment_method": "OXXO",
+    "processed_at": "26-06-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1040",
+    "amount": "1770.19 MXN",
+    "status": "paid",
+    "payment_method": "spei",
+    "processed_at": "2026-06-16 09:22:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1083",
+    "amount": "",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "2026/06/13",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1338",
+    "amount": "$558.58",
+    "status": "pending",
+    "payment_method": "unknown",
+    "processed_at": "2026-05-22T19:18:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1240",
+    "amount": "4447.97",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "2026-04-03T01:23:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1230",
+    "amount": "$1,735.19",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "2026-04-17T06:46:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1295",
+    "amount": "261.00 MXN",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "2026-04-25",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1202",
+    "amount": "99",
+    "status": "pending",
+    "payment_method": "oxxo",
+    "processed_at": "2026-04-25 16:03:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1044",
+    "amount": "$1,158.81",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "2026-05-05",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1218",
+    "amount": "$290.86",
+    "status": "failed",
+    "payment_method": "credit card",
+    "processed_at": "02-04-2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1224",
+    "amount": "98.82",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "13/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1170",
+    "amount": "$2,030.12",
+    "status": "pending",
+    "payment_method": "oxxo",
+    "processed_at": "2026-05-25 22:25:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1212",
+    "amount": "341.14",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "2026/04/03",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1257",
+    "amount": "",
+    "status": "pending",
+    "payment_method": "CARD",
+    "processed_at": "2026/05/25",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1133",
+    "amount": "error",
+    "status": "pending",
+    "payment_method": "OXXO",
+    "processed_at": "2026/04/20",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1122",
+    "amount": "99.00 MXN",
+    "status": "pending",
+    "payment_method": "spei",
+    "processed_at": "2026-04-19 02:46:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1168",
+    "amount": "426.4",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "2026-04-10T18:29:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1153",
+    "amount": "2008.64 MXN",
+    "status": "successful",
+    "payment_method": "SPEI",
+    "processed_at": "2026-05-29",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1214",
+    "amount": "",
+    "status": "rejected",
+    "payment_method": "spei",
+    "processed_at": "30/06/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1313",
+    "amount": "$305.83",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026-05-16 13:14:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1239",
+    "amount": "148.98 MXN",
+    "status": "pending",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-19",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1186",
+    "amount": "error",
+    "status": "pending",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-04",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1069-X",
+    "amount": "301.85",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "2026-04-06",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1059",
+    "amount": "1253.09",
+    "status": "rejected",
+    "payment_method": "CARD",
+    "processed_at": "06-04-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1317",
+    "amount": "2211.63",
+    "status": "failed",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-29T09:07:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1228",
+    "amount": "$255.47",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-21",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1251",
+    "amount": "2033.99 MXN",
+    "status": "failed",
+    "payment_method": "unknown",
+    "processed_at": "26-06-2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1095",
+    "amount": "$1,212.23",
+    "status": "failed",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026/06/06",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1302",
+    "amount": "1968.06 MXN",
+    "status": "pending",
+    "payment_method": "OXXO",
+    "processed_at": "2026-05-21",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1232",
+    "amount": "46.02 MXN",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-01 01:05:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1086",
+    "amount": "4836.27",
+    "status": "rejected",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "19/04/2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1021",
+    "amount": "133.93 MXN",
+    "status": "failed",
+    "payment_method": "CARD",
+    "processed_at": "2026/05/19",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1293",
+    "amount": "212.4",
+    "status": "successful",
+    "payment_method": "oxxo",
+    "processed_at": "2026-04-30T20:43:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1081",
+    "amount": "$341.51",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-30T09:35:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1116",
+    "amount": "",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "16-06-2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1192",
+    "amount": "589.51 MXN",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "2026/06/29",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1109",
+    "amount": "$1,282.93",
+    "status": "pending",
+    "payment_method": "OXXO",
+    "processed_at": "2026-06-05T15:53:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1145",
+    "amount": "error",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "2026-06-29T14:20:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1301",
+    "amount": "711.07 MXN",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "2026-06-02 07:00:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1203",
+    "amount": "error",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-05-17",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1002",
+    "amount": "199.00 MXN",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "2026/05/03",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1041",
+    "amount": "5227.15 MXN",
+    "status": "rejected",
+    "payment_method": "OXXO",
+    "processed_at": "06/05/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1015",
+    "amount": "$1,375.33",
+    "status": "successful",
+    "payment_method": "CARD",
+    "processed_at": "2026-05-08 01:48:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1105",
+    "amount": "error",
+    "status": "successful",
+    "payment_method": "SPEI",
+    "processed_at": "2026-06-13 03:14:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1189",
+    "amount": "1221.37 MXN",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "2026/06/09",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1166",
+    "amount": "error",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "2026-05-20",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1036",
+    "amount": "$4,296.67",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "27-05-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1324",
+    "amount": "$1,290.44",
+    "status": "failed",
+    "payment_method": "oxxo",
+    "processed_at": "2026-05-02",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1071",
+    "amount": "665.26 MXN",
+    "status": "failed",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026/06/06",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1289",
+    "amount": "511.82 MXN",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "23-05-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1294",
+    "amount": "199",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "2026/04/26",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1223",
+    "amount": "176.82",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "13/04/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1066",
+    "amount": "error",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "01-04-2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1076",
+    "amount": "169.81",
+    "status": "paid",
+    "payment_method": "CARD",
+    "processed_at": "2026-06-18T11:50:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1096",
+    "amount": "332.54",
+    "status": "pending",
+    "payment_method": "unknown",
+    "processed_at": "2026/04/25",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1007",
+    "amount": "1019.69 MXN",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-17 01:06:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1219",
+    "amount": "2399.54",
+    "status": "rejected",
+    "payment_method": "credit card",
+    "processed_at": "2026/06/19",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1110",
+    "amount": "",
+    "status": "pending",
+    "payment_method": "CARD",
+    "processed_at": "06/04/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1319",
+    "amount": "$178.34",
+    "status": "failed",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-04-03",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1208",
+    "amount": "$170.05",
+    "status": "failed",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-12 00:08:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1347",
+    "amount": "4542.56 MXN",
+    "status": "successful",
+    "payment_method": "OXXO",
+    "processed_at": "2026/04/22",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1144",
+    "amount": "462.38 MXN",
+    "status": "successful",
+    "payment_method": "spei",
+    "processed_at": "24-05-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1171",
+    "amount": "$92.41",
+    "status": "successful",
+    "payment_method": "spei",
+    "processed_at": "20-04-2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1056",
+    "amount": "562.64 MXN",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026-06-30T05:04:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1233",
+    "amount": "111.39 MXN",
+    "status": "rejected",
+    "payment_method": "crypto",
+    "processed_at": "14/04/2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1113",
+    "amount": "81.29 MXN",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "2026-05-02",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1305",
+    "amount": "799.87",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "20-04-2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1307",
+    "amount": "$403.97",
+    "status": "rejected",
+    "payment_method": "wallet",
+    "processed_at": "2026-05-17 18:41:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1020",
+    "amount": "$474.97",
+    "status": "failed",
+    "payment_method": "bitso",
+    "processed_at": "06/04/2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1063",
+    "amount": "45.74",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "23-06-2026",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1042",
+    "amount": "$153.98",
+    "status": "paid",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026-05-10T10:22:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1162",
+    "amount": "123.11 MXN",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-05-03",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1123",
+    "amount": "1181.2",
+    "status": "failed",
+    "payment_method": "credit card",
+    "processed_at": "2026-06-23 23:27:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1249",
+    "amount": "953.44",
+    "status": "paid",
+    "payment_method": "spei",
+    "processed_at": "2026/06/16",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1012",
+    "amount": "1018.28",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-10 07:58:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1285",
+    "amount": "error",
+    "status": "paid",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-18T21:19:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1311",
+    "amount": "",
+    "status": "successful",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-21",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1064",
+    "amount": "error",
+    "status": "pending",
+    "payment_method": "SPEI",
+    "processed_at": "2026-04-03",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1072",
+    "amount": "$161.39",
+    "status": "failed",
+    "payment_method": "OXXO",
+    "processed_at": "2026-06-24T11:09:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1097",
+    "amount": "$926.64",
+    "status": "rejected",
+    "payment_method": "credit card",
+    "processed_at": "2026/05/06",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1016",
+    "amount": "$228.48",
+    "status": "rejected",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-12T08:23:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1026",
+    "amount": "$1,422.19",
+    "status": "paid",
+    "payment_method": "spei",
+    "processed_at": "09-05-2026",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1179",
+    "amount": "88.21",
+    "status": "failed",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-04-01T22:43:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1246",
+    "amount": "149.55",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026/05/18",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1155",
+    "amount": "$693.11",
+    "status": "successful",
+    "payment_method": "spei",
+    "processed_at": "2026/06/16",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1194",
+    "amount": "166.46",
+    "status": "rejected",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-12T01:01:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1315",
+    "amount": "999",
+    "status": "successful",
+    "payment_method": "OXXO",
+    "processed_at": "2026/04/20",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1073",
+    "amount": "$177.17",
+    "status": "paid",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-21",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1337",
+    "amount": "$431.22",
+    "status": "pending",
+    "payment_method": "crypto",
+    "processed_at": "2026/06/13",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1148",
+    "amount": "$2,372.73",
+    "status": "pending",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-29",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1343",
+    "amount": "$106.87",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-26 11:06:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1019",
+    "amount": "359.69",
+    "status": "pending",
+    "payment_method": "tarjeta",
+    "processed_at": "05/04/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1150",
+    "amount": "$4,767.42",
+    "status": "successful",
+    "payment_method": "wallet",
+    "processed_at": "19/04/2026",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1106",
+    "amount": "148.69 MXN",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "2026-06-21 10:20:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1270",
+    "amount": "$1,416.74",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-04-09 10:35:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1204",
+    "amount": "",
+    "status": "failed",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "10/05/2026",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1112-X",
+    "amount": "226.79",
+    "status": "failed",
+    "payment_method": "SPEI",
+    "processed_at": "2026-06-08 12:33:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1329-X",
+    "amount": "$499.00",
+    "status": "rejected",
+    "payment_method": "oxxo",
+    "processed_at": "27/06/2026",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1348",
+    "amount": "238.38 MXN",
+    "status": "rejected",
+    "payment_method": "unknown",
+    "processed_at": "2026-04-03 11:34:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "TXN-1039",
+    "amount": "2049.35 MXN",
+    "status": "successful",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-05-18T04:35:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1074",
+    "amount": "$4,306.88",
+    "status": "successful",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-17 11:33:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1140",
+    "amount": "269.04 MXN",
+    "status": "paid",
+    "payment_method": "unknown",
+    "processed_at": "2026-05-23",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1161",
+    "amount": "704.74 MXN",
+    "status": "rejected",
+    "payment_method": "Oxxo Pay",
+    "processed_at": "2026/04/21",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1222",
+    "amount": "2110.65 MXN",
+    "status": "pending",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-13T07:18:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "TXN-1057",
+    "amount": "589.53 MXN",
+    "status": "successful",
+    "payment_method": "spei",
+    "processed_at": "2026/04/03",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1314",
+    "amount": "99",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "2026/06/21",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "TXN-1151",
+    "amount": "590.37 MXN",
+    "status": "paid",
+    "payment_method": "spei",
+    "processed_at": "2026-04-24T11:07:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "TXN-1331",
+    "amount": "1405.63",
+    "status": "failed",
+    "payment_method": "CARD",
+    "processed_at": "2026-04-10T03:47:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "PSP-ONLY-001",
+    "amount": "300",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-06-17T00:00:00",
+    "provider": "Conekta"
+  },
+  {
+    "transaction_id": "PSP-ONLY-002",
+    "amount": "500",
+    "status": "pending",
+    "payment_method": "bitso",
+    "processed_at": "2026-05-20T00:00:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "PSP-ONLY-003",
+    "amount": "100.00 MXN",
+    "status": "paid",
+    "payment_method": "credit card",
+    "processed_at": "2026-05-02T00:00:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "PSP-ONLY-004",
+    "amount": "$300.00",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-05-22T00:00:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "PSP-ONLY-005",
+    "amount": "",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-30T00:00:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "PSP-ONLY-006",
+    "amount": "100",
+    "status": "paid",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-23T00:00:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "PSP-ONLY-007",
+    "amount": "1000",
+    "status": "pending",
+    "payment_method": "spei",
+    "processed_at": "2026-05-07T00:00:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "PSP-ONLY-008",
+    "amount": "$300.00",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026-06-20T00:00:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "PSP-ONLY-009",
+    "amount": "$1,000.00",
+    "status": "paid",
+    "payment_method": "CARD",
+    "processed_at": "2026-04-04T00:00:00",
+    "provider": "InternalWallet"
+  },
+  {
+    "transaction_id": "PSP-ONLY-010",
+    "amount": "$100.00",
+    "status": "failed",
+    "payment_method": "crypto",
+    "processed_at": "2026-05-20T00:00:00",
+    "provider": "Stripe"
+  },
+  {
+    "transaction_id": "PSP-ONLY-011",
+    "amount": "1000",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026-06-29T00:00:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "PSP-ONLY-012",
+    "amount": "$100.00",
+    "status": "paid",
+    "payment_method": "SPEI",
+    "processed_at": "2026-06-15T00:00:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "PSP-ONLY-013",
+    "amount": "300.00 MXN",
+    "status": "pending",
+    "payment_method": "OXXO",
+    "processed_at": "2026-06-08T00:00:00",
+    "provider": "Bitso"
+  },
+  {
+    "transaction_id": "PSP-ONLY-014",
+    "amount": "100",
+    "status": "failed",
+    "payment_method": "spei",
+    "processed_at": "2026-05-16T00:00:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "PSP-ONLY-015",
+    "amount": "100",
+    "status": "pending",
+    "payment_method": "tarjeta",
+    "processed_at": "2026-07-04T00:00:00",
+    "provider": "OxxoPSP"
+  },
+  {
+    "transaction_id": "TXN-1205",
+    "amount": "4123.28",
+    "status": "failed",
+    "payment_method": "wallet",
+    "processed_at": "2026/05/27",
+    "provider": "Bitso"
+  }
+]
