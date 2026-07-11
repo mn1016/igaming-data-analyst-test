@@ -44,15 +44,15 @@ en la función getDatos()
 
  	
 
- 	- Dentro de la carpeta `prueba_tecnica/datos` ejecutar la instrucción `php procesar_archivo.php <tipo> <direccion_archivo>`
+ 	- Dentro de la carpeta `prueba_tecnica/datos` ejecutar la instrucción `php procesar_archivo.php < tipo > < direccion_archivo >`
 
 
 
- 		<tipo> es un parámetro valores permitidos users, deposits, bets, psp_report, withdrawals 
+ 		< tipo > es un parámetro valores permitidos users, deposits, bets, psp_report, withdrawals 
 
 
 
- 		<direccion_archivo> es un parámetro que debe llevar la dirección del archivo a procesar
+ 		< direccion_archivo > es un parámetro que debe llevar la dirección del archivo a procesar
 
 
 
