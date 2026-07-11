@@ -96,7 +96,7 @@ en la función getDatos()
 
 	- Ejemplo `php test.php decimal "$1, 234.45 MXN"`
 
-	- Ejemplo `php test.php fecha\_iso "23-05-2025 04:05:03"`
+	- Ejemplo `php test.php fecha_iso "23-05-2025 04:05:03"`
 
 	- Nota: si el valor a probar lleva espacios debe ponerse entre comillas
 
