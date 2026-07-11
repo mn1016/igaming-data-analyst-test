@@ -14,7 +14,7 @@ Prueba Técnica — Data Analyst / Data Developer iGaming
 
 Copiar la carpeta `prueba_tecnica` localizada en la carpeta `codigo_fuente`.
 
-Cargar a MariaDB la base de datos `prueba_tecnica.sql` localizada en la carpeta `sql`
+Cargar a MariaDB la base de datos `schema.sql` localizada en la carpeta `sql`
 
 Por default el proyecto tiene configuradas las credenciales para MariaDB
 
