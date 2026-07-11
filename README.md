@@ -18,7 +18,7 @@ Cargar a MariaDB la base de datos `prueba_tecnica.sql` localizada en la carpeta 
 
 Por default el proyecto tiene configuradas las credenciales para MariaDB
 
-* server=localhost
+* server:localhost
 
 * usuario: root
 
