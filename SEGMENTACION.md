@@ -30,7 +30,7 @@ Se sumaron los puntos obtenidos en cada dimensión y se clasificaron los cliente
 
 	- Más de 10 - VIP
    	- De 7 a 9 - ACTIVE
-   	- De 4 a 8 - AT_RISK
+   	- De 4 a 6 - AT_RISK
 	- De 0 a 3 - DORMANT
 	- NEW si se registro en los últimos 30 días sin importar el puntaje obtenido
 
