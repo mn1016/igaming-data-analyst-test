@@ -16,43 +16,45 @@
 
 
 
-**	Monto total	y	número de depósitos	por método de pago**
+**Monto total	y	número de depósitos	por método de pago**
 
-OXXO		
+**OXXO**		
 
- $27,801.11	(28.97%)
+Monto:  $27,801.11	(28.97%)
 
 Núm. depositos: 32		(24.24%)
 
 
-CARD		
- $23,993.25	(25.00%)		
+**CARD**		
+Monto:  $23,993.25	(25.00%)		
 
 Núm. depositos: 38		(28.79%)
 
 
-CRYPTO		
+**CRYPTO**		
 
 Monto: $14,748.58	(15.37%)		
 
 Núm. depositos: 25		(18.94%)
 
 
-WALLET		
+**WALLET**		
 
- $13,866.03	(14.45%)		
+Monto:  $13,866.03	(14.45%)		
 
 Núm. depositos: 14		(10.61%)
 
 
-SPEI		$11,657.48	(12.15%)		
+**SPEI**		
+
+Monto: $11,657.48	(12.15%)		
 
 Núm. depositos: 10		(7.58%)
 
 
-UNKNOWN		
+**UNKNOWN**		
 
- $3,891.38	(4.06%)			
+Monto:  $3,891.38	(4.06%)			
 
 Núm. depositos: 13		(9.85%)
 
