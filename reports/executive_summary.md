@@ -16,19 +16,30 @@
 
 
 
-**Método de pago	Monto total	%	Número de depósitos	%**
+**	Monto total	y	número de depósitos	por método de pago**
 
-OXXO		$27,801.11	28.97%		32		24.24%
+OXXO		
+Monto: $27,801.11	(28.97%)		
+Núm. depositos: 32		(24.24%)
 
-CARD		$23,993.25	25.00%		38		28.79%
+CARD		
+Monto: $23,993.25	(25.00%)		
+Núm. depositos: 38		(28.79%)
 
-CRYPTO		$14,748.58	15.37%		25		18.94%
+CRYPTO		
+Monto: $14,748.58	(15.37%)				
+Núm. depositos: 25		(18.94%)
 
-WALLET		$13,866.03	14.45%		14		10.61%
+WALLET		
+Monto: $13,866.03	(14.45%)				
+Núm. depositos: 14		(10.61%)
 
-SPEI		$11,657.48	12.15%		10		7.58%
+SPEI		$11,657.48	(12.15%)				
+Núm. depositos: 10		(7.58%)
 
-UNKNOWN		$3,891.38	4.06%		13		9.85%
+UNKNOWN		
+Monto: $3,891.38	(4.06%)				
+Núm. depositos: 13		(9.85%)
 
 
 
@@ -44,17 +55,17 @@ UNKNOWN		$3,891.38	4.06%		13		9.85%
 
 
 
-**Tipo de diferencia	Registros	%**
+**Registros por tipo de diferencia%**
 
-OK 			60		16.30%
+OK 	: 60		(16.30%)
 
-STATUS\_MISMATCH		172		46.74%
+STATUS\_MISMATCH	:	172		(46.74%)
 
-MISSING\_IN\_PSP		112		30.43%
+MISSING\_IN\_PSP	:	112		(30.43%)
 
-MISSING\_INTERNAL	15		4.08%
+MISSING\_INTERNAL  :	15		(4.08%)
 
-AMOUNT\_MISMATCH		9		2.45%
+AMOUNT\_MISMATCH	:	9		(2.45%)
 
 
 
@@ -66,15 +77,15 @@ AMOUNT\_MISMATCH		9		2.45%
 
 
 
-**Categoría	%		Usuarios**
+**Usuarios por categoría**
 
-VIP		11.11%		16
+VIP		:		16 (11.11%)
 
-ACTIVE		52.78%		76
+ACTIVE		:		76 (52.78%)
 
-AT\_RISK		10.42%		15
+AT\_RISK		:		15 (10.42%)
 
-NEW		25.69%		37
+NEW		:		37 (25.69%)
 
 
 
